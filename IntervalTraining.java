@@ -8,7 +8,6 @@ if (SUUNTO_LAP_NUMBER == 1) {
 	RESULT = SUUNTO_DURATION ;
 }
 
-/* ************************************* */
 /* Interval program starts here (lap =2) */
 
 if (SUUNTO_LAP_NUMBER == 2) {
