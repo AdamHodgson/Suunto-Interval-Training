@@ -1,5 +1,4 @@
 
-/* Init var. when program starts */
 /* Warmup until lap button is press */
 
 if (SUUNTO_LAP_NUMBER == 1) {
