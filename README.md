@@ -1,11 +1,12 @@
 <h3>Interval Training</h3>
 
-Interval training session designed with a number of repetitions (variable = REPETITION), sets (variable = SET),
-duration of intervals (variable = RUNTIME), recovery period between interval repetitions (variable = JOGTIME) 
-and between sets (variable = RESTTIME).  
-
+Interval training session designed with a number of repetitions *(variable = REPETITION)*, sets *(variable = SET)*,
+duration of intervals *(variable = RUNTIME)*, recovery period between interval repetitions *(variable = JOGTIME)* 
+and between sets *(variable = RESTTIME)*.  
 
 Variables can be adjusted to suit individual needs / sessions. 
+
+This application is frequently used as part of the Newcastle University Athletics and Cross Country training program.
 
 <h3>Usage</h3>
 
