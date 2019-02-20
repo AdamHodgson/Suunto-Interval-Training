@@ -1,4 +1,4 @@
-<h3>Interval Training</h3>
+# Interval Training   &nbsp; [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1a9af8060c7a437abd0247a7c229fddb)](https://www.codacy.com/app/AdamHodgson/Suunto-Interval-Training?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdamHodgson/Suunto-Interval-Training&amp;utm_campaign=Badge_Grade)
 
 Interval training session designed with a number of repetitions *(variable = REPETITION)*, sets *(variable = SET)*,
 duration of intervals *(variable = RUNTIME)*, recovery period between interval repetitions *(variable = JOGTIME)* 
