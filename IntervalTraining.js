@@ -1,5 +1,5 @@
 /* Warmup until lap button is press */
-if (SUUNTO_LAP_NUMBER == 1) {
+if (SUUNTO_LAP_NUMBER === 1) {
     ZCOUNTER = 11;
     ZREPETITION = REPETITION;
     prefix = "Warmup";
@@ -8,7 +8,7 @@ if (SUUNTO_LAP_NUMBER == 1) {
 
 /* Interval program starts here (lap =2) */
 
-if (SUUNTO_LAP_NUMBER == 2) {
+if (SUUNTO_LAP_NUMBER === 2) {
 
     /* Shows #Sets et #Repetition left*/
 
